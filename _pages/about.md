@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me 
-======
-I'm a algorithm researcher from Shanghai Iluvatar CoreX Semiconductor Co., Ltd. 
+
+I'm a algorithm researcher from Shanghai Iluvatar CoreX Semiconductor Co., Ltd. The main research area is human physiological signal sensing and face generation.
+
+
